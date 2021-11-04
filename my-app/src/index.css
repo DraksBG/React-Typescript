@@ -22,6 +22,7 @@ ul {
   font-weight: bold;
   cursor: pointer;
   font-size: 1em;
+  margin: 0.5rem auto;
 }
 .btn:hover {
   background: #1f9751;

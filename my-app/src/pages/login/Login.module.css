@@ -1,0 +1,22 @@
+.login-form {
+  max-width: 360px;
+  margin: 3.75rem auto;
+  padding: 1.25rem;
+}
+
+.login-form lable {
+  display: block;
+  margin: 1.875rem auto;
+}
+
+.login-form span {
+  display: block;
+  margin: 0.5rem auto;
+}
+
+.login-form input {
+  padding: 0.5rem 0.25rem;
+  font-size: 1rem;
+  color: #777;
+  width: 100%;
+}
